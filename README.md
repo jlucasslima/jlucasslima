@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá! Eu sou o João Lucas
 
-<!--
-**jlucasslima/jlucasslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 2º ano de Ciência da Computação na PUC-SP e Desenvolvedor Full-Stack focado em construir soluções eficientes.
 
-Here are some ideas to get you started:
+#### Tecnologias e Ferramentas
+* Linguagens: C, C++, Java, JavaScript
+* Front-end: HTML, CSS
+* Back-end e Banco de Dados: Node.js, MongoDB, REST APIs
+* Outros: Git, GitHub, Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projetos em Destaque
+* [Workshop Inside REI](https://github.com/jlucasslima/WorkShop-InsideREI26) - Aplicação Full-stack para venda e gestão de ingressos.
+
+#### Contato
+* [LinkedIn](https://www.linkedin.com/in/jlucasslima)
+* E-mail: jlucas2140@gmail.com

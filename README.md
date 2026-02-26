@@ -38,8 +38,3 @@
 
 ---
 
-### 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlucasslima&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>

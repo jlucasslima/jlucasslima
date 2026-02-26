@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🎓 Cursando o 2º ano de **Ciência da Computação** na **PUC-SP**.
+- 🎓 Cursando **Ciência da Computação** na **PUC-SP**.
 - 💻 Atuo com desenvolvimento **Full-Stack**, construindo desde a arquitetura do banco de dados até a interface do usuário.
 - ⚙️ Focado em arquitetura de sistemas, resolução de problemas e entrega de projetos do zero à produção.
 - 📍 Mooca, São Paulo - Brasil.

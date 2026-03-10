@@ -13,10 +13,10 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-- 🎓 Cursando **Ciência da Computação** na **PUC-SP**.
-- 💻 Atuo com desenvolvimento **Full-Stack**, construindo desde a arquitetura do banco de dados até a interface do usuário.
-- ⚙️ Focado em arquitetura de sistemas, resolução de problemas e entrega de projetos do zero à produção.
-- 📍 São Paulo - Brasil.
+- Cursando **Ciência da Computação** na **PUC-SP**.
+- Atuo com desenvolvimento **Full-Stack**, construindo desde a arquitetura do banco de dados até a interface do usuário.
+- Focado em arquitetura de sistemas, resolução de problemas e entrega de projetos do zero à produção.
+- São Paulo - Brasil.
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="left">

@@ -4,7 +4,8 @@
 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=jlucasslima&theme=tokyonight&hide_border=true" />
-</div>
+  
+  <br><br>
   
   <a href="https://www.linkedin.com/in/jlucasslima">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />

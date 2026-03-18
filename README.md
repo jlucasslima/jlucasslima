@@ -1,7 +1,9 @@
 <div align="center">
   <h2> Less talk. More code. </h2>
   <p> Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Inglês B2 </p>
-  
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Estatísticas de Linguagens" />
+</div>
   <a href="https://www.linkedin.com/in/jlucasslima">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>

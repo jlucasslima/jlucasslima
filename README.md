@@ -6,10 +6,6 @@
 </div>
   <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jlucasslima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-  <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=jlucasslima&theme=tokyonight&hide_border=true" />
 </div>
   <a href="https://www.linkedin.com/in/jlucasslima">

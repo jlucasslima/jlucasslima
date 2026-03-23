@@ -42,3 +42,4 @@
 - **[Workshop Inside REI](https://github.com/jlucasslima/WorkShop-InsideREI26)**: Web app Full-Stack para venda de ingressos e gestão de eventos. Arquitetado com **Node.js, MongoDB** e integração via webhooks com a API do **Mercado Pago**.
 - **Sistemas Embarcados e Baixo Nível**: Programação em **C** e **Assembly** para manipulação direta de hardware e gerenciamento de memória, além de troubleshooting de circuitos e microcontroladores usando **Arduino**.
 - **Calculadora em Java**: Aplicação para cálculos matemáticos complexos, aplicando conceitos de POO e princípios SOLID para garantir escalabilidade e manutenção do código.
+ 

@@ -2,7 +2,7 @@
   <h2> Less talk. More code. </h2>
   <p> Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Inglês B2 </p>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&v=0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&v=1" />
   <img height="165" src="https://streak-stats.demolab.com?user=jlucasslima&theme=tokyonight&hide_border=true&v=1" />
   
   <br><br>

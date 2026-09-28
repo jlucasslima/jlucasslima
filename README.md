@@ -1,17 +1,21 @@
 <div align="center">
   <h1>João Lucas de Lima Souza</h1>
-  <p>Estudante de Ciência da Computação (PUC-SP) | Desenvolvedor Full-Stack</p>
+  <p>Computer Science Student (PUC-SP) | Full-Stack Developer</p>
+  <p><i>"Less talk. More code."</i></p>
 
   <br>
 
-  <!-- Cartões de Estatísticas do GitHub -->
+  <!-- Interactive Stats & Top Languages -->
   <a href="https://github.com/jlucasslima">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlucasslima&theme=dark&hide_border=true&background=0d1117&ring=0077b5&fire=0077b5&currStreakNum=ffffff" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlucasslima&theme=dark&hide_border=true&background=0d1117&ring=0077b5&fire=0077b5&currStreakNum=ffffff" alt="GitHub Streak" height="160" />
+  </a>
+  <a href="https://github.com/jlucasslima">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&theme=dark&hide_border=true&bg_color=0d1117&layout=compact&text_color=ffffff&title_color=0077b5" alt="Top Languages" height="160" />
   </a>
 
   <br><br>
 
-  <!-- Botões de Contato Profissionais -->
+  <!-- Professional Contact Badges -->
   <a href="https://linkedin.com/in/jlucasslima" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -22,10 +26,10 @@
 
 <br>
 
-## Sobre Mim
-Atuo com desenvolvimento Full-Stack, construindo aplicações desde a modelagem da arquitetura do banco de dados até a interface do usuário. Tenho forte interesse em arquitetura de sistemas, otimização de baixo nível e resolução de problemas. Busco constantemente aplicar na prática os conceitos teóricos da computação por meio de projetos integrados e contribuições para a comunidade Open Source.
+## About Me
+I am a Full-Stack developer with experience building applications from database modeling to the user interface. I have a strong interest in system architecture, hardware integration, and complex problem-solving. I am constantly seeking to apply theoretical computer science concepts in practice through integrated projects and active contributions to the Open Source community.
 
-## Tecnologias e Ferramentas
+## Technologies & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -44,12 +48,6 @@ Atuo com desenvolvimento Full-Stack, construindo aplicações desde a modelagem 
 
 <br>
 
-## Contribuições Open Source (OSS)
+## Open Source Contributions (OSS)
 
-* **[opencode-asteroids](https://github.com/Cbolas/opencode-asteroids):** Refatoração no canvas principal do jogo em JavaScript para suportar resoluções maiores (1600x1200) e implementação de responsividade via CSS, garantindo a adaptação fluida em diferentes monitores sem quebrar o layout. ([Ver Pull Request #4](COLOQUE_O_LINK_DO_SEU_PR_AQUI))
-
-## Projetos em Destaque
-
-* **WorkShop Inside REI:** Web app Full-Stack para venda de ingressos e gestão de eventos. Arquitetura construída com Node.js e MongoDB, incluindo integração de pagamentos via webhooks com a API do Mercado Pago.
-* **Sistemas Embarcados e Baixo Nível:** Programação em C e Assembly para manipulação direta de hardware e gerenciamento de memória, além de troubleshooting de circuitos e microcontroladores usando Arduino.
-* **Calculadora em Java:** Aplicação para cálculos matemáticos complexos, aplicando conceitos de POO e princípios SOLID para garantir escalabilidade e facilidade na manutenção do código.
+* **[opencode-asteroids](https://github.com/Cbolas/opencode-asteroids):** Refactored the main JavaScript game canvas to support higher resolutions (1600x1200) and implemented CSS responsiveness, ensuring fluid layout adaptation across different monitors. ([View Pull Request #4](COLOQUE_O_LINK_DO_SEU_PR_AQUI))

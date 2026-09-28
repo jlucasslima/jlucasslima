@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>João Lucas de Lima Souza</h1>
+  <h1>Less Talk. More Code</h1>
   <p>Computer Science Student (PUC-SP) | Full-Stack Developer</p>
-  <p><i>"Less talk. More code."</i></p>
+ 
 
   <br>
 

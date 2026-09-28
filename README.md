@@ -27,7 +27,7 @@
 <br>
 
 ## About Me
-I am a Full-Stack developer with experience building applications from database modeling to the user interface. I have a strong interest in system architecture, hardware integration, and complex problem-solving. I am constantly seeking to apply theoretical computer science concepts in practice through integrated projects and active contributions to the Open Source community.
+I am a Full-Stack developer with experience building applications from database modeling to the user interface. I have a strong interest in system architecture, hardware integration, and complex problem-solving.
 
 ## Technologies & Tools
 

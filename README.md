@@ -1,16 +1,12 @@
 <div align="center">
-  <h1>Less Talk. More Code</h1>
+  <h2>Less Talk. More Code</h2>
   <p>Computer Science Student (PUC-SP) | Full-Stack Developer</p>
- 
 
   <br>
 
-  <!-- Interactive Stats & Top Languages -->
+  <!-- Interactive Stats -->
   <a href="https://github.com/jlucasslima">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlucasslima&theme=dark&hide_border=true&background=0d1117&ring=0077b5&fire=0077b5&currStreakNum=ffffff" alt="GitHub Streak" height="160" />
-  </a>
-  <a href="https://github.com/jlucasslima">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasslima&theme=dark&hide_border=true&bg_color=0d1117&layout=compact&text_color=ffffff&title_color=0077b5" alt="Top Languages" height="160" />
   </a>
 
   <br><br>

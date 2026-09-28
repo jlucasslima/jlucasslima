@@ -6,10 +6,10 @@
 
   <!-- Interactive Stats -->
   <a href="https://github.com/jlucasslima">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlucasslima&theme=dark&hide_border=true&background=0d1117&ring=0077b5&fire=0077b5&currStreakNum=ffffff" alt="GitHub Streak" height="160" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlucasslima&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff" alt="GitHub Streak" height="160" />
   </a>
   <a href="https://github.com/jlucasslima">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jlucasslima&theme=tokyonight" alt="GitHub Stats" height="160" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jlucasslima&theme=github_dark" alt="GitHub Stats" height="160" />
   </a>
 
   <br><br>

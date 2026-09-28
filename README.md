@@ -46,4 +46,4 @@ I am a Full-Stack developer with experience building applications from database 
 
 ## Open Source Contributions (OSS)
 
-* **[opencode-asteroids](https://github.com/Cbolas/opencode-asteroids):** Refactored the main JavaScript game canvas to support higher resolutions (1600x1200) and implemented CSS responsiveness, ensuring fluid layout adaptation across different monitors. ([View Pull Request #4](COLOQUE_O_LINK_DO_SEU_PR_AQUI))
+* **[opencode-asteroids](https://github.com/Cbolas/opencode-asteroids):** Refactored the main JavaScript game canvas to support higher resolutions (1600x1200) and implemented CSS responsiveness, ensuring fluid layout adaptation across different monitors. ([View Pull Request #4](https://github.com/Cbolas/opencode-asteroids/pull/4))

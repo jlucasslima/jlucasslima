@@ -46,4 +46,5 @@ I am a Full-Stack developer with experience building applications from database 
 
 ## Open Source Contributions (OSS)
 
+* **[notion-to-medium](https://github.com/DhanushNehru/notion-to-medium):** Implemented comprehensive unit tests for the Markdown-to-HTML converter using Node.js native test runner (`node:test`), ensuring robust handling of edge cases like toggle expansions, image rendering, and HTML-escaping. ([View Pull Request #11](https://github.com/DhanushNehru/notion-to-medium/pull/11))
 * **[opencode-asteroids](https://github.com/Cbolas/opencode-asteroids):** Refactored the main JavaScript game canvas to support higher resolutions (1600x1200) and implemented CSS responsiveness, ensuring fluid layout adaptation across different monitors. ([View Pull Request #4](https://github.com/Cbolas/opencode-asteroids/pull/4))

@@ -9,7 +9,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlucasslima&theme=dark&hide_border=true&background=0d1117&ring=0077b5&fire=0077b5&currStreakNum=ffffff" alt="GitHub Streak" height="160" />
   </a>
   <a href="https://github.com/jlucasslima">
-    <img src="https://github-readme-stats.vercel.app/api?username=jlucasslima&bg_color=00000000&hide_border=true&title_color=0077b5&icon_color=0077b5&text_color=ffffff&hide_rank=true&show_icons=true&v=1" alt="GitHub Stats" height="160" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jlucasslima&theme=tokyonight" alt="GitHub Stats" height="160" />
   </a>
 
   <br><br>
